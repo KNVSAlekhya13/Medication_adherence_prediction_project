@@ -1,0 +1,25 @@
+Medication Adherence Dataset
+
+patients.csv
+- patient_id: Unique patient identifier
+- age: Patient age
+- gender: Male/Female
+- condition: Primary health condition
+- reminder_enabled: Whether medication reminders are enabled (0/1)
+
+medications.csv
+- medication_id: Unique medication record identifier
+- patient_id: Patient identifier
+- medication_name: Medication name
+- dosage: Dosage
+- frequency: Daily frequency
+
+adherence.csv
+- patient_id: Patient identifier
+- date: Date of medication activity
+- scheduled_doses: Number of doses scheduled
+- taken_doses: Number of doses taken
+- late_doses: Number of late doses
+
+This dataset is synthetic and intended for educational/demo purposes.
+It is not real patient data and should not be used for clinical decisions.

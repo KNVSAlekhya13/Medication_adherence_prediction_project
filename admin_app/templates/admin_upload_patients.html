@@ -1,0 +1,10 @@
+
+<section class="admin-upload-patients" style="margin:24px 0;padding:20px;border:1px solid #ddd;border-radius:14px;">
+  <h3>Upload Patients</h3>
+  <p>Upload patient records using the same dataset format.</p>
+  <form action="{{ url_for('upload_patients') }}" method="post" enctype="multipart/form-data">
+    <input type="file" name="patients_file" accept=".csv" required>
+    <button type="submit">Upload Patients</button>
+  </form>
+  <small>Required column: <b>patient_id</b>. Existing IDs are updated and new IDs are added.</small>
+</section>

@@ -1,0 +1,2 @@
+model,cv_accuracy
+GradientBoostingClassifier,0.8775

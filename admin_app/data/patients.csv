@@ -1,0 +1,1001 @@
+patient_id,age,gender,condition,reminder_enabled
+P001,56,Female,Thyroid,0
+P002,25,Male,Thyroid,0
+P003,36,Male,Asthma,1
+P004,70,Female,Asthma,0
+P005,19,Female,Heart Disease,1
+P006,19,Female,Heart Disease,0
+P007,29,Female,Thyroid,1
+P008,66,Male,Asthma,1
+P009,45,Female,Asthma,1
+P010,69,Female,Hypertension,0
+P011,68,Male,Thyroid,1
+P012,35,Female,Hypertension,1
+P013,67,Female,Hypertension,0
+P014,19,Female,Heart Disease,1
+P015,24,Female,Thyroid,1
+P016,52,Female,Hypertension,1
+P017,57,Female,Diabetes,1
+P018,71,Female,Heart Disease,0
+P019,80,Female,Diabetes,1
+P020,27,Female,Heart Disease,1
+P021,65,Male,Heart Disease,0
+P022,57,Male,Thyroid,1
+P023,70,Female,Diabetes,1
+P024,77,Female,Thyroid,0
+P025,32,Male,Hypertension,0
+P026,26,Female,Hypertension,0
+P027,41,Male,Asthma,0
+P028,25,Male,Asthma,1
+P029,22,Female,Diabetes,0
+P030,24,Male,Heart Disease,1
+P031,65,Male,Thyroid,1
+P032,57,Female,Asthma,1
+P033,52,Male,Asthma,1
+P034,43,Male,Asthma,1
+P035,32,Female,Diabetes,1
+P036,68,Male,Hypertension,1
+P037,49,Female,Thyroid,1
+P038,62,Male,Asthma,1
+P039,30,Female,Asthma,1
+P040,45,Female,Diabetes,1
+P041,74,Male,Heart Disease,1
+P042,61,Female,Asthma,1
+P043,72,Female,Hypertension,1
+P044,50,Male,Hypertension,1
+P045,74,Female,Thyroid,1
+P046,56,Female,Asthma,1
+P047,54,Male,Asthma,1
+P048,41,Male,Asthma,1
+P049,49,Female,Hypertension,1
+P050,79,Male,Diabetes,1
+P051,79,Male,Diabetes,1
+P052,54,Male,Hypertension,1
+P053,19,Female,Heart Disease,0
+P054,54,Female,Hypertension,1
+P055,79,Female,Thyroid,1
+P056,49,Female,Heart Disease,0
+P057,73,Male,Hypertension,1
+P058,41,Male,Heart Disease,1
+P059,39,Male,Hypertension,0
+P060,76,Female,Thyroid,1
+P061,77,Male,Heart Disease,0
+P062,20,Male,Asthma,1
+P063,24,Female,Hypertension,1
+P064,56,Female,Hypertension,1
+P065,74,Male,Diabetes,1
+P066,47,Female,Asthma,1
+P067,33,Female,Hypertension,1
+P068,66,Female,Hypertension,0
+P069,29,Male,Thyroid,1
+P070,72,Male,Hypertension,1
+P071,65,Female,Asthma,1
+P072,71,Female,Hypertension,1
+P073,28,Male,Heart Disease,1
+P074,37,Female,Asthma,1
+P075,42,Male,Hypertension,0
+P076,63,Female,Diabetes,1
+P077,33,Male,Hypertension,0
+P078,21,Male,Thyroid,0
+P079,73,Female,Asthma,1
+P080,50,Female,Heart Disease,1
+P081,39,Male,Thyroid,1
+P082,25,Male,Asthma,1
+P083,47,Male,Heart Disease,1
+P084,50,Male,Heart Disease,1
+P085,36,Female,Asthma,1
+P086,34,Female,Heart Disease,1
+P087,63,Male,Asthma,1
+P088,54,Female,Thyroid,1
+P089,70,Male,Asthma,1
+P090,69,Male,Thyroid,1
+P091,40,Male,Asthma,0
+P092,42,Female,Diabetes,1
+P093,63,Female,Diabetes,1
+P094,39,Male,Diabetes,1
+P095,59,Female,Diabetes,1
+P096,50,Male,Asthma,1
+P097,56,Male,Diabetes,1
+P098,52,Female,Hypertension,1
+P099,77,Female,Hypertension,1
+P100,37,Male,Heart Disease,1
+P0101,50,Female,Thyroid,0
+P0102,24,Male,Heart Disease,0
+P0103,30,Female,Hypertension,1
+P0104,64,Female,Heart Disease,0
+P0105,23,Female,Thyroid,1
+P0106,23,Female,Diabetes,0
+P0107,34,Male,Asthma,1
+P0108,64,Male,Heart Disease,1
+P0109,49,Female,Asthma,1
+P0110,74,Female,Asthma,0
+P0111,67,Male,Diabetes,1
+P0112,36,Female,Diabetes,1
+P0113,72,Female,Hypertension,0
+P0114,21,Male,Thyroid,1
+P0115,27,Male,Diabetes,1
+P0116,59,Male,Heart Disease,1
+P0117,60,Female,Thyroid,1
+P0118,66,Male,Asthma,0
+P0119,80,Male,Asthma,1
+P0120,22,Female,Thyroid,1
+P0121,71,Female,Hypertension,0
+P0122,64,Male,Hypertension,1
+P0123,76,Male,Diabetes,1
+P0124,77,Female,Diabetes,0
+P0125,31,Male,Thyroid,0
+P0126,26,Male,Hypertension,0
+P0127,42,Female,Heart Disease,0
+P0128,24,Male,Heart Disease,1
+P0129,24,Female,Diabetes,0
+P0130,21,Female,Heart Disease,1
+P0131,64,Female,Heart Disease,1
+P0132,55,Female,Hypertension,1
+P0133,48,Female,Thyroid,1
+P0134,38,Female,Diabetes,1
+P0135,37,Male,Thyroid,1
+P0136,72,Female,Thyroid,1
+P0137,49,Female,Hypertension,1
+P0138,66,Female,Asthma,1
+P0139,30,Female,Diabetes,1
+P0140,40,Male,Diabetes,1
+P0141,73,Female,Thyroid,1
+P0142,61,Female,Asthma,1
+P0143,66,Female,Asthma,1
+P0144,52,Female,Asthma,1
+P0145,68,Female,Thyroid,1
+P0146,53,Female,Diabetes,1
+P0147,52,Male,Heart Disease,1
+P0148,37,Male,Asthma,1
+P0149,56,Female,Diabetes,1
+P0150,75,Female,Diabetes,1
+P0151,84,Male,Heart Disease,1
+P0152,51,Male,Thyroid,1
+P0153,18,Female,Asthma,0
+P0154,58,Female,Thyroid,1
+P0155,78,Male,Asthma,1
+P0156,54,Male,Diabetes,0
+P0157,71,Male,Diabetes,1
+P0158,35,Female,Thyroid,1
+P0159,42,Male,Thyroid,0
+P0160,71,Female,Asthma,1
+P0161,84,Male,Asthma,0
+P0162,23,Male,Asthma,1
+P0163,19,Male,Hypertension,1
+P0164,53,Female,Thyroid,1
+P0165,76,Male,Heart Disease,1
+P0166,41,Male,Diabetes,1
+P0167,31,Female,Hypertension,1
+P0168,72,Male,Thyroid,0
+P0169,28,Male,Thyroid,1
+P0170,79,Male,Thyroid,1
+P0171,61,Female,Thyroid,1
+P0172,70,Female,Hypertension,1
+P0173,22,Male,Asthma,1
+P0174,43,Male,Asthma,1
+P0175,45,Male,Thyroid,0
+P0176,60,Female,Asthma,1
+P0177,34,Male,Asthma,0
+P0178,26,Male,Thyroid,0
+P0179,73,Female,Thyroid,1
+P0180,49,Male,Thyroid,1
+P0181,34,Female,Diabetes,1
+P0182,27,Female,Diabetes,1
+P0183,51,Male,Thyroid,1
+P0184,43,Male,Asthma,1
+P0185,31,Male,Thyroid,1
+P0186,29,Female,Diabetes,1
+P0187,58,Female,Thyroid,1
+P0188,49,Male,Heart Disease,1
+P0189,77,Female,Asthma,1
+P0190,67,Female,Asthma,1
+P0191,37,Male,Diabetes,0
+P0192,49,Male,Asthma,1
+P0193,63,Female,Diabetes,1
+P0194,33,Male,Asthma,1
+P0195,62,Male,Asthma,1
+P0196,57,Male,Asthma,1
+P0197,57,Male,Heart Disease,1
+P0198,49,Female,Hypertension,1
+P0199,78,Female,Heart Disease,1
+P0200,36,Male,Diabetes,1
+P0201,54,Female,Diabetes,0
+P0202,31,Female,Diabetes,0
+P0203,33,Female,Hypertension,1
+P0204,64,Female,Thyroid,0
+P0205,18,Male,Hypertension,1
+P0206,21,Female,Thyroid,0
+P0207,36,Female,Hypertension,1
+P0208,60,Female,Heart Disease,1
+P0209,52,Male,Hypertension,1
+P0210,62,Male,Asthma,0
+P0211,69,Male,Hypertension,1
+P0212,40,Male,Heart Disease,1
+P0213,74,Male,Hypertension,0
+P0214,26,Female,Hypertension,1
+P0215,26,Female,Heart Disease,1
+P0216,48,Female,Heart Disease,1
+P0217,52,Male,Asthma,1
+P0218,64,Male,Asthma,0
+P0219,85,Female,Diabetes,1
+P0220,33,Male,Thyroid,1
+P0221,70,Female,Hypertension,0
+P0222,63,Male,Asthma,1
+P0223,70,Male,Diabetes,1
+P0224,81,Male,Thyroid,0
+P0225,31,Male,Heart Disease,0
+P0226,20,Female,Thyroid,0
+P0227,39,Male,Diabetes,0
+P0228,32,Female,Hypertension,1
+P0229,18,Male,Diabetes,0
+P0230,29,Female,Diabetes,1
+P0231,69,Male,Hypertension,1
+P0232,58,Female,Heart Disease,1
+P0233,45,Male,Hypertension,1
+P0234,40,Female,Thyroid,1
+P0235,29,Female,Asthma,1
+P0236,68,Male,Diabetes,1
+P0237,56,Male,Diabetes,1
+P0238,58,Male,Diabetes,1
+P0239,23,Female,Heart Disease,1
+P0240,39,Male,Asthma,1
+P0241,80,Female,Thyroid,1
+P0242,62,Male,Diabetes,1
+P0243,77,Female,Diabetes,1
+P0244,53,Male,Thyroid,1
+P0245,79,Male,Asthma,1
+P0246,50,Female,Heart Disease,1
+P0247,48,Male,Heart Disease,1
+P0248,38,Male,Asthma,1
+P0249,49,Female,Hypertension,1
+P0250,85,Female,Hypertension,1
+P0251,85,Female,Asthma,1
+P0252,47,Female,Asthma,1
+P0253,18,Female,Heart Disease,0
+P0254,48,Female,Diabetes,1
+P0255,83,Male,Diabetes,1
+P0256,56,Male,Asthma,0
+P0257,68,Female,Thyroid,1
+P0258,46,Male,Asthma,1
+P0259,41,Female,Heart Disease,0
+P0260,69,Female,Diabetes,1
+P0261,74,Female,Hypertension,0
+P0262,24,Male,Hypertension,1
+P0263,22,Female,Thyroid,1
+P0264,58,Female,Heart Disease,1
+P0265,78,Female,Hypertension,1
+P0266,46,Male,Hypertension,1
+P0267,39,Male,Diabetes,1
+P0268,68,Female,Heart Disease,0
+P0269,26,Male,Asthma,1
+P0270,68,Male,Hypertension,1
+P0271,72,Female,Heart Disease,1
+P0272,76,Female,Diabetes,1
+P0273,34,Male,Asthma,1
+P0274,38,Male,Diabetes,1
+P0275,37,Female,Hypertension,0
+P0276,60,Female,Diabetes,1
+P0277,39,Female,Asthma,0
+P0278,18,Male,Hypertension,0
+P0279,74,Male,Asthma,1
+P0280,44,Female,Diabetes,1
+P0281,42,Male,Diabetes,1
+P0282,20,Female,Diabetes,1
+P0283,46,Female,Asthma,1
+P0284,53,Female,Hypertension,1
+P0285,41,Male,Heart Disease,1
+P0286,34,Female,Heart Disease,1
+P0287,67,Female,Asthma,1
+P0288,47,Male,Diabetes,1
+P0289,76,Male,Hypertension,1
+P0290,65,Female,Asthma,1
+P0291,47,Male,Hypertension,0
+P0292,35,Male,Hypertension,1
+P0293,69,Female,Heart Disease,1
+P0294,33,Male,Heart Disease,1
+P0295,53,Male,Asthma,1
+P0296,56,Female,Diabetes,1
+P0297,61,Female,Heart Disease,1
+P0298,58,Male,Heart Disease,1
+P0299,74,Female,Asthma,1
+P0300,41,Female,Thyroid,1
+P0301,58,Female,Thyroid,0
+P0302,20,Female,Asthma,0
+P0303,33,Female,Heart Disease,1
+P0304,75,Female,Asthma,0
+P0305,23,Male,Thyroid,1
+P0306,21,Male,Hypertension,0
+P0307,22,Male,Asthma,1
+P0308,66,Male,Asthma,1
+P0309,47,Male,Hypertension,1
+P0310,67,Female,Hypertension,0
+P0311,72,Male,Asthma,1
+P0312,33,Male,Thyroid,1
+P0313,63,Male,Thyroid,0
+P0314,26,Female,Heart Disease,1
+P0315,29,Male,Thyroid,1
+P0316,49,Male,Asthma,1
+P0317,64,Female,Asthma,1
+P0318,73,Male,Heart Disease,0
+P0319,81,Female,Thyroid,1
+P0320,29,Male,Hypertension,1
+P0321,60,Female,Diabetes,0
+P0322,53,Female,Thyroid,1
+P0323,70,Female,Heart Disease,1
+P0324,71,Female,Thyroid,0
+P0325,34,Male,Thyroid,0
+P0326,29,Female,Diabetes,0
+P0327,41,Female,Thyroid,0
+P0328,20,Female,Heart Disease,1
+P0329,18,Female,Asthma,0
+P0330,25,Male,Thyroid,1
+P0331,72,Female,Heart Disease,1
+P0332,64,Male,Hypertension,1
+P0333,55,Female,Diabetes,1
+P0334,37,Female,Thyroid,1
+P0335,27,Male,Diabetes,1
+P0336,69,Male,Asthma,1
+P0337,49,Male,Thyroid,1
+P0338,62,Female,Thyroid,1
+P0339,36,Female,Asthma,1
+P0340,45,Male,Asthma,1
+P0341,69,Female,Heart Disease,1
+P0342,55,Female,Diabetes,1
+P0343,75,Male,Asthma,1
+P0344,52,Female,Asthma,1
+P0345,80,Female,Hypertension,1
+P0346,59,Female,Hypertension,1
+P0347,58,Female,Heart Disease,1
+P0348,45,Female,Hypertension,1
+P0349,53,Male,Asthma,1
+P0350,76,Male,Diabetes,1
+P0351,85,Male,Diabetes,1
+P0352,61,Female,Asthma,1
+P0353,23,Male,Diabetes,0
+P0354,57,Male,Asthma,1
+P0355,85,Female,Hypertension,1
+P0356,53,Female,Asthma,0
+P0357,68,Male,Thyroid,1
+P0358,48,Male,Thyroid,1
+P0359,44,Female,Asthma,0
+P0360,70,Male,Heart Disease,1
+P0361,83,Female,Diabetes,0
+P0362,18,Male,Asthma,1
+P0363,18,Female,Asthma,1
+P0364,49,Male,Asthma,1
+P0365,77,Female,Asthma,1
+P0366,44,Female,Asthma,1
+P0367,30,Male,Diabetes,1
+P0368,63,Female,Heart Disease,0
+P0369,33,Female,Asthma,1
+P0370,66,Male,Heart Disease,1
+P0371,58,Female,Thyroid,1
+P0372,68,Female,Heart Disease,1
+P0373,21,Male,Thyroid,1
+P0374,44,Male,Thyroid,1
+P0375,37,Female,Thyroid,0
+P0376,57,Female,Heart Disease,1
+P0377,38,Male,Hypertension,0
+P0378,18,Male,Diabetes,0
+P0379,78,Female,Heart Disease,1
+P0380,45,Male,Heart Disease,1
+P0381,36,Female,Heart Disease,1
+P0382,18,Male,Diabetes,1
+P0383,42,Male,Heart Disease,1
+P0384,52,Female,Heart Disease,1
+P0385,43,Male,Hypertension,1
+P0386,39,Male,Diabetes,1
+P0387,66,Female,Heart Disease,1
+P0388,60,Male,Thyroid,1
+P0389,75,Female,Heart Disease,1
+P0390,74,Male,Diabetes,1
+P0391,39,Male,Diabetes,0
+P0392,36,Female,Asthma,1
+P0393,64,Female,Asthma,1
+P0394,41,Male,Heart Disease,1
+P0395,58,Male,Heart Disease,1
+P0396,54,Male,Diabetes,1
+P0397,49,Male,Diabetes,1
+P0398,55,Female,Heart Disease,1
+P0399,81,Female,Asthma,1
+P0400,30,Male,Thyroid,1
+P0401,49,Male,Hypertension,0
+P0402,31,Male,Thyroid,0
+P0403,35,Male,Hypertension,1
+P0404,64,Female,Diabetes,0
+P0405,18,Female,Asthma,1
+P0406,18,Female,Thyroid,0
+P0407,25,Female,Heart Disease,1
+P0408,67,Male,Diabetes,1
+P0409,41,Female,Asthma,1
+P0410,66,Male,Asthma,0
+P0411,69,Female,Hypertension,1
+P0412,37,Male,Heart Disease,1
+P0413,62,Male,Asthma,0
+P0414,19,Female,Asthma,1
+P0415,30,Male,Diabetes,1
+P0416,46,Female,Diabetes,1
+P0417,64,Male,Diabetes,1
+P0418,68,Female,Asthma,0
+P0419,84,Female,Asthma,1
+P0420,29,Female,Asthma,1
+P0421,60,Male,Heart Disease,0
+P0422,53,Female,Asthma,1
+P0423,72,Male,Heart Disease,1
+P0424,70,Male,Asthma,0
+P0425,32,Male,Diabetes,0
+P0426,22,Male,Asthma,0
+P0427,39,Female,Asthma,0
+P0428,28,Female,Thyroid,1
+P0429,23,Female,Thyroid,0
+P0430,21,Male,Thyroid,1
+P0431,63,Female,Diabetes,1
+P0432,56,Female,Thyroid,1
+P0433,52,Male,Heart Disease,1
+P0434,43,Female,Thyroid,1
+P0435,33,Female,Diabetes,1
+P0436,74,Female,Asthma,1
+P0437,53,Female,Hypertension,1
+P0438,66,Male,Hypertension,1
+P0439,30,Female,Hypertension,1
+P0440,45,Male,Diabetes,1
+P0441,67,Male,Heart Disease,1
+P0442,66,Female,Diabetes,1
+P0443,66,Male,Asthma,1
+P0444,48,Male,Diabetes,1
+P0445,77,Male,Diabetes,1
+P0446,60,Female,Diabetes,1
+P0447,53,Female,Thyroid,1
+P0448,46,Male,Hypertension,1
+P0449,52,Male,Hypertension,1
+P0450,81,Female,Diabetes,1
+P0451,79,Male,Asthma,1
+P0452,61,Male,Heart Disease,1
+P0453,18,Female,Asthma,0
+P0454,51,Female,Thyroid,1
+P0455,74,Female,Thyroid,1
+P0456,47,Female,Thyroid,0
+P0457,71,Male,Thyroid,1
+P0458,37,Female,Asthma,1
+P0459,39,Male,Thyroid,0
+P0460,71,Male,Heart Disease,1
+P0461,83,Female,Heart Disease,0
+P0462,21,Male,Heart Disease,1
+P0463,29,Female,Thyroid,1
+P0464,51,Female,Asthma,1
+P0465,79,Male,Hypertension,1
+P0466,41,Female,Thyroid,1
+P0467,26,Male,Asthma,1
+P0468,66,Female,Diabetes,0
+P0469,26,Male,Hypertension,1
+P0470,78,Female,Diabetes,1
+P0471,67,Male,Diabetes,1
+P0472,68,Male,Asthma,1
+P0473,35,Female,Thyroid,1
+P0474,37,Male,Diabetes,1
+P0475,39,Male,Heart Disease,0
+P0476,68,Female,Thyroid,1
+P0477,34,Female,Asthma,0
+P0478,24,Female,Thyroid,0
+P0479,75,Male,Thyroid,1
+P0480,48,Female,Asthma,1
+P0481,45,Male,Heart Disease,1
+P0482,30,Male,Asthma,1
+P0483,47,Female,Thyroid,1
+P0484,55,Male,Asthma,1
+P0485,35,Female,Hypertension,1
+P0486,35,Male,Heart Disease,1
+P0487,61,Male,Asthma,1
+P0488,54,Female,Asthma,1
+P0489,70,Male,Diabetes,1
+P0490,67,Female,Heart Disease,1
+P0491,42,Female,Hypertension,0
+P0492,37,Male,Hypertension,1
+P0493,60,Male,Hypertension,1
+P0494,32,Female,Heart Disease,1
+P0495,62,Male,Asthma,1
+P0496,47,Male,Asthma,1
+P0497,57,Male,Asthma,1
+P0498,49,Male,Thyroid,1
+P0499,77,Female,Thyroid,1
+P0500,44,Female,Thyroid,1
+P0501,62,Male,Heart Disease,0
+P0502,29,Female,Heart Disease,0
+P0503,36,Female,Hypertension,1
+P0504,77,Female,Thyroid,0
+P0505,18,Female,Diabetes,1
+P0506,18,Female,Thyroid,0
+P0507,34,Male,Thyroid,1
+P0508,67,Female,Thyroid,1
+P0509,44,Female,Diabetes,1
+P0510,76,Male,Hypertension,0
+P0511,73,Female,Heart Disease,1
+P0512,39,Female,Hypertension,1
+P0513,60,Male,Hypertension,0
+P0514,18,Female,Thyroid,1
+P0515,31,Male,Heart Disease,1
+P0516,59,Female,Asthma,1
+P0517,54,Female,Hypertension,1
+P0518,70,Male,Thyroid,0
+P0519,82,Male,Hypertension,1
+P0520,28,Female,Heart Disease,1
+P0521,61,Female,Asthma,0
+P0522,62,Male,Diabetes,1
+P0523,63,Male,Heart Disease,1
+P0524,70,Male,Diabetes,0
+P0525,38,Female,Thyroid,0
+P0526,29,Female,Thyroid,0
+P0527,34,Female,Thyroid,0
+P0528,29,Male,Heart Disease,1
+P0529,20,Male,Heart Disease,0
+P0530,20,Male,Thyroid,1
+P0531,61,Female,Asthma,1
+P0532,50,Female,Asthma,1
+P0533,48,Female,Asthma,1
+P0534,36,Female,Asthma,1
+P0535,35,Female,Thyroid,1
+P0536,71,Male,Hypertension,1
+P0537,48,Female,Asthma,1
+P0538,60,Female,Heart Disease,1
+P0539,36,Male,Thyroid,1
+P0540,46,Male,Hypertension,1
+P0541,68,Male,Asthma,1
+P0542,67,Female,Diabetes,1
+P0543,75,Male,Thyroid,1
+P0544,48,Male,Thyroid,1
+P0545,73,Female,Asthma,1
+P0546,63,Female,Hypertension,1
+P0547,58,Male,Asthma,1
+P0548,36,Male,Asthma,1
+P0549,44,Female,Heart Disease,1
+P0550,82,Female,Asthma,1
+P0551,72,Male,Asthma,1
+P0552,60,Male,Asthma,1
+P0553,18,Male,Diabetes,0
+P0554,52,Male,Diabetes,1
+P0555,77,Male,Asthma,1
+P0556,42,Male,Asthma,0
+P0557,80,Female,Heart Disease,1
+P0558,39,Male,Asthma,1
+P0559,45,Female,Heart Disease,0
+P0560,80,Female,Asthma,1
+P0561,84,Male,Hypertension,0
+P0562,26,Male,Hypertension,1
+P0563,25,Male,Heart Disease,1
+P0564,62,Male,Asthma,1
+P0565,81,Female,Hypertension,1
+P0566,48,Female,Thyroid,1
+P0567,26,Male,Heart Disease,1
+P0568,62,Male,Hypertension,0
+P0569,24,Male,Hypertension,1
+P0570,78,Male,Hypertension,1
+P0571,58,Female,Hypertension,1
+P0572,75,Female,Thyroid,1
+P0573,30,Male,Heart Disease,1
+P0574,37,Female,Heart Disease,1
+P0575,43,Female,Hypertension,0
+P0576,68,Female,Heart Disease,1
+P0577,30,Female,Asthma,0
+P0578,18,Male,Asthma,0
+P0579,70,Male,Asthma,1
+P0580,52,Male,Heart Disease,1
+P0581,43,Female,Heart Disease,1
+P0582,24,Male,Diabetes,1
+P0583,54,Female,Thyroid,1
+P0584,44,Male,Diabetes,1
+P0585,29,Male,Asthma,1
+P0586,27,Female,Asthma,1
+P0587,59,Female,Thyroid,1
+P0588,51,Male,Diabetes,1
+P0589,75,Male,Thyroid,1
+P0590,67,Female,Diabetes,1
+P0591,46,Female,Asthma,0
+P0592,38,Female,Hypertension,1
+P0593,63,Male,Hypertension,1
+P0594,38,Male,Diabetes,1
+P0595,56,Male,Asthma,1
+P0596,55,Male,Diabetes,1
+P0597,50,Female,Hypertension,1
+P0598,52,Male,Hypertension,1
+P0599,76,Male,Asthma,1
+P0600,41,Male,Heart Disease,1
+P0601,56,Male,Hypertension,0
+P0602,22,Female,Hypertension,0
+P0603,42,Male,Heart Disease,1
+P0604,73,Male,Hypertension,0
+P0605,23,Male,Hypertension,1
+P0606,25,Male,Diabetes,0
+P0607,29,Male,Heart Disease,1
+P0608,69,Male,Diabetes,1
+P0609,47,Male,Hypertension,1
+P0610,64,Male,Heart Disease,0
+P0611,62,Male,Heart Disease,1
+P0612,30,Female,Diabetes,1
+P0613,62,Male,Thyroid,0
+P0614,21,Male,Hypertension,1
+P0615,18,Female,Hypertension,1
+P0616,53,Female,Heart Disease,1
+P0617,57,Male,Hypertension,1
+P0618,76,Female,Thyroid,0
+P0619,79,Male,Heart Disease,1
+P0620,31,Female,Heart Disease,1
+P0621,62,Male,Hypertension,0
+P0622,63,Female,Asthma,1
+P0623,77,Female,Heart Disease,1
+P0624,84,Male,Hypertension,0
+P0625,36,Female,Diabetes,0
+P0626,23,Female,Thyroid,0
+P0627,35,Female,Hypertension,0
+P0628,21,Female,Asthma,1
+P0629,24,Male,Heart Disease,0
+P0630,18,Female,Diabetes,1
+P0631,69,Male,Hypertension,1
+P0632,50,Female,Diabetes,1
+P0633,54,Female,Heart Disease,1
+P0634,46,Male,Thyroid,1
+P0635,37,Male,Diabetes,1
+P0636,74,Male,Asthma,1
+P0637,45,Male,Thyroid,1
+P0638,57,Female,Thyroid,1
+P0639,23,Male,Thyroid,1
+P0640,45,Male,Heart Disease,1
+P0641,70,Male,Heart Disease,1
+P0642,54,Female,Heart Disease,1
+P0643,73,Female,Hypertension,1
+P0644,44,Female,Heart Disease,1
+P0645,68,Female,Asthma,1
+P0646,57,Male,Thyroid,1
+P0647,49,Male,Thyroid,1
+P0648,34,Male,Asthma,1
+P0649,43,Male,Hypertension,1
+P0650,81,Female,Heart Disease,1
+P0651,74,Male,Diabetes,1
+P0652,55,Male,Hypertension,1
+P0653,24,Female,Heart Disease,0
+P0654,50,Female,Thyroid,1
+P0655,74,Female,Asthma,1
+P0656,47,Female,Thyroid,0
+P0657,73,Female,Thyroid,1
+P0658,42,Male,Thyroid,1
+P0659,42,Female,Diabetes,0
+P0660,75,Female,Asthma,1
+P0661,84,Male,Diabetes,0
+P0662,24,Male,Asthma,1
+P0663,23,Male,Heart Disease,1
+P0664,50,Female,Heart Disease,1
+P0665,76,Male,Diabetes,1
+P0666,50,Male,Diabetes,1
+P0667,31,Female,Hypertension,1
+P0668,61,Female,Diabetes,0
+P0669,35,Female,Heart Disease,1
+P0670,78,Male,Hypertension,1
+P0671,63,Male,Heart Disease,1
+P0672,75,Female,Heart Disease,1
+P0673,30,Male,Asthma,1
+P0674,37,Male,Thyroid,1
+P0675,44,Female,Asthma,0
+P0676,67,Female,Asthma,1
+P0677,32,Male,Thyroid,0
+P0678,27,Female,Heart Disease,0
+P0679,78,Female,Asthma,1
+P0680,44,Male,Hypertension,1
+P0681,38,Female,Asthma,1
+P0682,18,Male,Heart Disease,1
+P0683,54,Male,Heart Disease,1
+P0684,53,Female,Heart Disease,1
+P0685,38,Male,Thyroid,1
+P0686,31,Male,Thyroid,1
+P0687,64,Female,Hypertension,1
+P0688,53,Male,Thyroid,1
+P0689,71,Female,Asthma,1
+P0690,69,Male,Diabetes,1
+P0691,38,Male,Hypertension,0
+P0692,40,Female,Diabetes,1
+P0693,60,Male,Hypertension,1
+P0694,42,Male,Hypertension,1
+P0695,52,Female,Thyroid,1
+P0696,46,Male,Diabetes,1
+P0697,56,Female,Asthma,1
+P0698,58,Male,Hypertension,1
+P0699,77,Male,Heart Disease,1
+P0700,32,Male,Asthma,1
+P0701,49,Male,Asthma,0
+P0702,21,Male,Diabetes,0
+P0703,29,Male,Diabetes,1
+P0704,77,Male,Thyroid,0
+P0705,22,Male,Heart Disease,1
+P0706,18,Male,Hypertension,0
+P0707,24,Male,Hypertension,1
+P0708,70,Male,Heart Disease,1
+P0709,49,Female,Diabetes,1
+P0710,76,Female,Heart Disease,0
+P0711,66,Female,Asthma,1
+P0712,29,Male,Diabetes,1
+P0713,74,Male,Hypertension,0
+P0714,20,Male,Diabetes,1
+P0715,29,Female,Thyroid,1
+P0716,54,Male,Asthma,1
+P0717,57,Male,Diabetes,1
+P0718,67,Male,Diabetes,0
+P0719,74,Female,Hypertension,1
+P0720,28,Female,Thyroid,1
+P0721,69,Male,Heart Disease,0
+P0722,55,Female,Asthma,1
+P0723,64,Female,Diabetes,1
+P0724,81,Male,Hypertension,0
+P0725,34,Female,Asthma,0
+P0726,20,Male,Heart Disease,0
+P0727,44,Male,Hypertension,0
+P0728,21,Male,Heart Disease,1
+P0729,24,Male,Thyroid,0
+P0730,23,Male,Asthma,1
+P0731,60,Male,Heart Disease,1
+P0732,60,Male,Heart Disease,1
+P0733,53,Female,Thyroid,1
+P0734,41,Female,Asthma,1
+P0735,35,Male,Hypertension,1
+P0736,64,Male,Diabetes,1
+P0737,42,Female,Diabetes,1
+P0738,68,Male,Thyroid,1
+P0739,27,Female,Hypertension,1
+P0740,45,Male,Asthma,1
+P0741,72,Female,Heart Disease,1
+P0742,60,Male,Diabetes,1
+P0743,70,Male,Diabetes,1
+P0744,57,Male,Asthma,1
+P0745,79,Female,Diabetes,1
+P0746,51,Male,Asthma,1
+P0747,61,Male,Diabetes,1
+P0748,37,Female,Diabetes,1
+P0749,47,Male,Diabetes,1
+P0750,85,Male,Hypertension,1
+P0751,85,Female,Diabetes,1
+P0752,53,Female,Asthma,1
+P0753,19,Female,Thyroid,0
+P0754,49,Female,Heart Disease,1
+P0755,74,Female,Heart Disease,1
+P0756,53,Male,Asthma,0
+P0757,78,Male,Heart Disease,1
+P0758,47,Female,Hypertension,1
+P0759,40,Male,Heart Disease,0
+P0760,74,Male,Thyroid,1
+P0761,79,Female,Diabetes,0
+P0762,24,Female,Thyroid,1
+P0763,29,Male,Hypertension,1
+P0764,62,Female,Asthma,1
+P0765,71,Female,Thyroid,1
+P0766,40,Female,Heart Disease,1
+P0767,30,Male,Heart Disease,1
+P0768,59,Male,Asthma,0
+P0769,33,Male,Asthma,1
+P0770,67,Female,Thyroid,1
+P0771,65,Male,Diabetes,1
+P0772,77,Female,Hypertension,1
+P0773,27,Female,Thyroid,1
+P0774,36,Male,Thyroid,1
+P0775,44,Female,Diabetes,0
+P0776,63,Female,Heart Disease,1
+P0777,33,Male,Asthma,0
+P0778,18,Male,Thyroid,0
+P0779,80,Female,Asthma,1
+P0780,43,Female,Asthma,1
+P0781,36,Female,Thyroid,1
+P0782,29,Male,Heart Disease,1
+P0783,46,Female,Thyroid,1
+P0784,52,Male,Hypertension,1
+P0785,34,Female,Thyroid,1
+P0786,32,Female,Thyroid,1
+P0787,61,Male,Heart Disease,1
+P0788,55,Male,Thyroid,1
+P0789,71,Female,Thyroid,1
+P0790,75,Male,Asthma,1
+P0791,35,Female,Asthma,0
+P0792,40,Female,Asthma,1
+P0793,62,Male,Hypertension,1
+P0794,33,Female,Diabetes,1
+P0795,56,Female,Diabetes,1
+P0796,52,Female,Thyroid,1
+P0797,53,Male,Heart Disease,1
+P0798,49,Female,Diabetes,1
+P0799,72,Female,Heart Disease,1
+P0800,42,Female,Hypertension,1
+P0801,62,Female,Diabetes,0
+P0802,19,Female,Hypertension,0
+P0803,40,Male,Hypertension,1
+P0804,67,Male,Thyroid,0
+P0805,25,Female,Thyroid,1
+P0806,18,Female,Asthma,0
+P0807,30,Female,Thyroid,1
+P0808,73,Female,Thyroid,1
+P0809,49,Male,Hypertension,1
+P0810,71,Male,Hypertension,0
+P0811,71,Female,Asthma,1
+P0812,33,Male,Thyroid,1
+P0813,68,Male,Asthma,0
+P0814,18,Female,Heart Disease,1
+P0815,31,Female,Hypertension,1
+P0816,51,Male,Heart Disease,1
+P0817,62,Female,Hypertension,1
+P0818,68,Female,Asthma,0
+P0819,83,Male,Asthma,1
+P0820,29,Female,Hypertension,1
+P0821,70,Male,Asthma,0
+P0822,63,Female,Heart Disease,1
+P0823,67,Female,Heart Disease,1
+P0824,84,Male,Thyroid,0
+P0825,39,Female,Hypertension,0
+P0826,30,Male,Asthma,0
+P0827,43,Male,Thyroid,0
+P0828,21,Female,Thyroid,1
+P0829,24,Male,Hypertension,0
+P0830,20,Male,Asthma,1
+P0831,63,Male,Hypertension,1
+P0832,53,Female,Heart Disease,1
+P0833,49,Female,Asthma,1
+P0834,38,Male,Diabetes,1
+P0835,25,Male,Asthma,1
+P0836,72,Male,Heart Disease,1
+P0837,45,Male,Thyroid,1
+P0838,66,Female,Diabetes,1
+P0839,24,Male,Asthma,1
+P0840,52,Male,Diabetes,1
+P0841,81,Male,Diabetes,1
+P0842,60,Male,Thyroid,1
+P0843,78,Female,Hypertension,1
+P0844,57,Female,Diabetes,1
+P0845,81,Male,Asthma,1
+P0846,60,Male,Hypertension,1
+P0847,54,Female,Hypertension,1
+P0848,43,Male,Diabetes,1
+P0849,52,Female,Asthma,1
+P0850,74,Male,Asthma,1
+P0851,79,Female,Hypertension,1
+P0852,54,Male,Thyroid,1
+P0853,23,Female,Diabetes,0
+P0854,61,Male,Heart Disease,1
+P0855,72,Female,Diabetes,1
+P0856,43,Female,Thyroid,0
+P0857,67,Female,Hypertension,1
+P0858,38,Male,Asthma,1
+P0859,34,Male,Hypertension,0
+P0860,69,Male,Thyroid,1
+P0861,81,Male,Hypertension,0
+P0862,24,Female,Heart Disease,1
+P0863,30,Female,Heart Disease,1
+P0864,55,Male,Hypertension,1
+P0865,70,Female,Thyroid,1
+P0866,52,Male,Asthma,1
+P0867,29,Female,Hypertension,1
+P0868,61,Female,Heart Disease,0
+P0869,35,Male,Hypertension,1
+P0870,67,Male,Asthma,1
+P0871,62,Male,Asthma,1
+P0872,64,Male,Diabetes,1
+P0873,22,Male,Heart Disease,1
+P0874,41,Male,Diabetes,1
+P0875,40,Female,Thyroid,0
+P0876,68,Male,Diabetes,1
+P0877,26,Male,Diabetes,0
+P0878,26,Male,Heart Disease,0
+P0879,74,Female,Asthma,1
+P0880,55,Male,Diabetes,1
+P0881,38,Male,Asthma,1
+P0882,29,Female,Hypertension,1
+P0883,44,Female,Hypertension,1
+P0884,50,Female,Thyroid,1
+P0885,39,Male,Hypertension,1
+P0886,32,Male,Hypertension,1
+P0887,65,Male,Thyroid,1
+P0888,58,Female,Diabetes,1
+P0889,74,Male,Hypertension,1
+P0890,64,Male,Diabetes,1
+P0891,33,Female,Diabetes,0
+P0892,40,Female,Heart Disease,1
+P0893,68,Male,Heart Disease,1
+P0894,41,Male,Asthma,1
+P0895,65,Male,Diabetes,1
+P0896,56,Female,Heart Disease,1
+P0897,63,Female,Asthma,1
+P0898,47,Female,Hypertension,1
+P0899,77,Female,Heart Disease,1
+P0900,34,Male,Thyroid,1
+P0901,49,Female,Thyroid,0
+P0902,26,Male,Heart Disease,0
+P0903,34,Female,Asthma,1
+P0904,63,Female,Diabetes,0
+P0905,25,Female,Hypertension,1
+P0906,19,Female,Hypertension,0
+P0907,26,Male,Hypertension,1
+P0908,70,Male,Heart Disease,1
+P0909,43,Female,Diabetes,1
+P0910,67,Female,Hypertension,0
+P0911,62,Female,Diabetes,1
+P0912,32,Male,Asthma,1
+P0913,69,Female,Heart Disease,0
+P0914,18,Male,Diabetes,1
+P0915,18,Male,Asthma,1
+P0916,58,Female,Thyroid,1
+P0917,61,Male,Heart Disease,1
+P0918,77,Male,Asthma,0
+P0919,85,Male,Heart Disease,1
+P0920,34,Male,Diabetes,1
+P0921,63,Male,Asthma,0
+P0922,58,Male,Diabetes,1
+P0923,67,Female,Diabetes,1
+P0924,73,Female,Diabetes,0
+P0925,31,Male,Diabetes,0
+P0926,25,Female,Diabetes,0
+P0927,35,Male,Thyroid,0
+P0928,30,Male,Hypertension,1
+P0929,20,Male,Hypertension,0
+P0930,18,Female,Hypertension,1
+P0931,63,Male,Heart Disease,1
+P0932,59,Male,Hypertension,1
+P0933,57,Female,Diabetes,1
+P0934,49,Female,Diabetes,1
+P0935,36,Male,Diabetes,1
+P0936,62,Male,Thyroid,1
+P0937,48,Male,Diabetes,1
+P0938,67,Female,Thyroid,1
+P0939,24,Female,Thyroid,1
+P0940,45,Male,Heart Disease,1
+P0941,73,Male,Hypertension,1
+P0942,60,Male,Hypertension,1
+P0943,72,Female,Diabetes,1
+P0944,51,Female,Heart Disease,1
+P0945,80,Male,Heart Disease,1
+P0946,63,Male,Asthma,1
+P0947,54,Male,Hypertension,1
+P0948,48,Female,Hypertension,1
+P0949,54,Male,Thyroid,1
+P0950,80,Male,Diabetes,1
+P0951,81,Male,Hypertension,1
+P0952,49,Female,Diabetes,1
+P0953,23,Female,Diabetes,0
+P0954,55,Female,Hypertension,1
+P0955,82,Male,Asthma,1
+P0956,48,Female,Thyroid,0
+P0957,71,Female,Heart Disease,1
+P0958,47,Female,Hypertension,1
+P0959,43,Male,Hypertension,0
+P0960,75,Female,Asthma,1
+P0961,75,Male,Hypertension,0
+P0962,22,Male,Asthma,1
+P0963,22,Male,Heart Disease,1
+P0964,54,Male,Hypertension,1
+P0965,74,Male,Hypertension,1
+P0966,42,Female,Thyroid,1
+P0967,40,Male,Heart Disease,1
+P0968,62,Female,Asthma,0
+P0969,33,Female,Asthma,1
+P0970,68,Female,Heart Disease,1
+P0971,72,Female,Diabetes,1
+P0972,72,Male,Thyroid,1
+P0973,35,Male,Thyroid,1
+P0974,44,Female,Hypertension,1
+P0975,36,Female,Heart Disease,0
+P0976,64,Female,Diabetes,1
+P0977,35,Male,Heart Disease,0
+P0978,24,Female,Asthma,0
+P0979,67,Male,Hypertension,1
+P0980,54,Male,Heart Disease,1
+P0981,35,Male,Hypertension,1
+P0982,24,Male,Diabetes,1
+P0983,48,Female,Heart Disease,1
+P0984,47,Female,Heart Disease,1
+P0985,43,Male,Heart Disease,1
+P0986,35,Male,Hypertension,1
+P0987,66,Male,Asthma,1
+P0988,58,Male,Asthma,1
+P0989,66,Female,Hypertension,1
+P0990,76,Male,Heart Disease,1
+P0991,44,Female,Heart Disease,0
+P0992,37,Female,Asthma,1
+P0993,70,Female,Asthma,1
+P0994,37,Male,Diabetes,1
+P0995,57,Female,Asthma,1
+P0996,50,Male,Asthma,1
+P0997,58,Female,Thyroid,1
+P0998,54,Female,Asthma,1
+P0999,84,Male,Diabetes,1
+P1000,36,Male,Diabetes,1
